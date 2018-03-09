@@ -1,0 +1,10 @@
+abs{
+  width: 50%;
+  float: left;
+}
+* {
+	font:  "Times New Roman";
+	color: #244C0F;
+	font-size: 20px;
+	background-color: white;
+}
